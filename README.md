@@ -1,1 +1,2 @@
 # weatherbot
+# Telegram bot yaratidim
